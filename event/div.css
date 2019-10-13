@@ -99,9 +99,9 @@ div.wpcf7 .wpcf7-recaptcha iframe {
 }
 
 div.wpcf7 input[type="file"] {
-	cursor: pointer;
+	cursor: pointer; 
 }
 
 div.wpcf7 input[type="file"]:disabled {
-	cursor: default;
-}
+	cursor: default; 
+} 
